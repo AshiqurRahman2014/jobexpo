@@ -24,7 +24,7 @@ module.exports = {
             res.status(500).json(error);
         }
     },
-//https://github.com/AshiqurRahman2014/jobexpo.git
+    
     deleteBookmark: async (req, res) => {
 
         try {
